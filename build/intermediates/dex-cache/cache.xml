@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/zhiyou/AndroidStudioProjects/huoquGPS/app/build/intermediates/pre-dexed/debug/BaiduLBS_Android-67ff5a4fdff5032f0d4eab730b80effff2c5c360.jar"
+        jar="/home/zhiyou/AndroidStudioProjects/huoquGPS/app/libs/BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b34c74e1d152cf214f3aef43e3f1b87772eb8669"/>
+
+</pre-dex-items>
